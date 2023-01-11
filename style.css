@@ -152,6 +152,7 @@ content: '';
 .result li dd span {
 display: none;
 }
+.result li dt,
 .result li dd {
 width: 113px;
 font-size: 0.9em;
